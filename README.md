@@ -1,4 +1,4 @@
- https://www.redmanbrasil.github.io/folds
+https://redmanbrasil.github.io/folds
 
 A website to find out how many times you have to fold a sheet of paper to reach some distance.
 
